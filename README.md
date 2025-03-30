@@ -1,1 +1,1 @@
-View live: mehriddin.vercel.app
+View live: mehriddin.uz
